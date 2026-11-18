@@ -27,4 +27,4 @@ Run the game:
 ./number_guess.sh
 ```
 
-**Note:** PostgreSQL must be running, and the database must be configured before launching the script. The scripts currently use the PostgreSQL role freecodecamp.
+**Note:** PostgreSQL must be running, and the database must be configured before launching the script. The scripts currently use the PostgreSQL role `freecodecamp`.
